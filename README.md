@@ -13,6 +13,6 @@
 ---
 
 ![views](https://komarev.com/ghpvc/?username=zakzka1092\&color=blue)
-![img]https://giffiles.alphacoders.com/194/19448.gif
+![img](https://giffiles.alphacoders.com/194/19448.gif)
 
 ---
